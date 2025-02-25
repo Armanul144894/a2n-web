@@ -125,6 +125,7 @@ h6 {
 }
 
 p {
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -9162,4 +9163,13 @@ textarea:-ms-input-placeholder {
 
 .progress-wrap-3 svg.progress-circle path {
   stroke: #ee7c21;
+}
+
+
+.text-primary{
+  color: #ee7c21 !important;
+}
+
+.text-justify{
+  text-align: justify;
 }
