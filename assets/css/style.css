@@ -5021,7 +5021,7 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-about-section-07 .about-content-wrap {
-  padding-left: 90px;
+  /* padding-left: 90px; */
 }
 
 .techwix-about-section-07 .about-content-wrap .text {
@@ -6018,7 +6018,7 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-skill-section-03 .skill-left {
-  padding-right: 60px;
+  /* padding-right: 60px; */
 }
 
 .techwix-skill-section-03 .skill-left .about-list {
@@ -6030,7 +6030,7 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-skill-section-03 .skill-right {
-  padding-right: 120px;
+  /* padding-right: 120px; */
 }
 
 .techwix-skill-section-03 .skill-right .text {
@@ -7538,7 +7538,7 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price {
-  font-size: 90px;
+  font-size: 60px;
   line-height: 54px;
   font-family: "Barlow", sans-serif;
   font-weight: 600;
@@ -7564,7 +7564,7 @@ textarea:-ms-input-placeholder {
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-list li {
   font-size: 18px;
-  line-height: 30px;
+  line-height: 25px;
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-list li + li {
@@ -9172,4 +9172,8 @@ textarea:-ms-input-placeholder {
 
 .text-justify{
   text-align: justify;
+}
+
+.pricing-list{
+  list-style: circle;
 }
